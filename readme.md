@@ -1,22 +1,7 @@
-♻️ Kabadi Wala – Smart Waste & Scrap Management Platform
-
-![Website Status](https://img.shields.io/website?url=https%3A%2F%2Fkabadi-wala.vercel.app)  
-![Made with Bolt.dev](https://img.shields.io/badge/Built%20with-Bolt.dev-blueviolet)  
-![Design with Figma](https://img.shields.io/badge/Designed%20with-Figma-red)  
-
-> A digital solution for modern waste management – making garbage collection smarter, more efficient, and eco-friendly.
-
 
 ## 🔗 Live Website
 
 🌍 [https://kabadi-wala.vercel.app](https://kabadi-wala.vercel.app)
-
-
-## 🎥 Demo Video
-
-▶️ Watch the full walkthrough here:  
-📽️ [Kabadi Wala – Vimeo Demo](https://vimeo.com/1096809578?share=copy)
-
 
 ## 🧠 What is Kabadi Wala?
 
@@ -66,9 +51,7 @@ Want to contribute? Feel free to fork this repo, submit issues or PRs, or reach 
 
 📬 Contact
 
-📧 For queries, ideas, or partnerships: [Your Email]  
-🌐 Project Lead: Soumen  
-🔗 Demo Video: [Vimeo](https://vimeo.com/1096809578?share=copy)
+📧 For queries, ideas, or partnerships: [singhdhruv645@gmail.com]  
 
 
 
